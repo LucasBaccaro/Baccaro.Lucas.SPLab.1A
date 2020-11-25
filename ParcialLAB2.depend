@@ -1,0 +1,47 @@
+# depslib dependency file v1.0
+1606313048 source:c:\users\lucas\desktop\parciallab2\bici.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	"LinkedList.h"
+	"Bici.h"
+
+1606306941 c:\users\lucas\desktop\parciallab2\linkedlist.h
+
+1606313048 c:\users\lucas\desktop\parciallab2\bici.h
+
+1606312588 source:c:\users\lucas\desktop\parciallab2\linkedlist.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	<ctype.h>
+	"LinkedList.h"
+	"Bici.h"
+
+1606314933 source:c:\users\lucas\desktop\parciallab2\main.c
+	<stdio.h>
+	<stdlib.h>
+	"LinkedList.h"
+	"utn.h"
+	"Bici.h"
+	"parcer.h"
+
+1606313048 source:c:\users\lucas\desktop\parciallab2\parcer.c
+	<stdio.h>
+	<stdlib.h>
+	"LinkedList.h"
+	"Bici.h"
+	"parcer.h"
+
+1606307785 c:\users\lucas\desktop\parciallab2\parcer.h
+
+1606306941 source:c:\users\lucas\desktop\parciallab2\utn.c
+	"utn.h"
+
+1606306941 c:\users\lucas\desktop\parciallab2\utn.h
+	<stdio.h>
+	<string.h>
+	<stdlib.h>
+
+1606311710 source:c:\users\lucas\desktop\parciallab2\time.c
+
